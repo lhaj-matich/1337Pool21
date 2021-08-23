@@ -1,0 +1,5 @@
+Credentials cache: API:E7FB60F4-9C01-4854-B173-540F25905089
+        Principal: ochoumou@1337.MA
+
+  Issued                Expires               Principal
+Jun 21 12:44:35 2021  Jun 21 22:44:25 2021  krbtgt/1337.MA@1337.MA
